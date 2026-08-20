@@ -3,6 +3,10 @@
   "version": "1.0.5",
   "description": "Reusable, institution-agnostic form engine for research data applications: field renderer, validation UI, dataset table, identifier linkage graph and shared types.",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rdsc-bundesbank/research-form-core"
+  },
   "type": "module",
   "main": "dist/index.js",
   "module": "dist/index.js",
