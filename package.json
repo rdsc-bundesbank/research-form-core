@@ -1,6 +1,6 @@
 {
   "name": "@rdsc/research-form-core",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Reusable, institution-agnostic form engine for research data applications: field renderer, validation UI, dataset table, identifier linkage graph and shared types.",
   "license": "MIT",
   "type": "module",
